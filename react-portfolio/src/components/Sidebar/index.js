@@ -3,6 +3,7 @@ import { Link, NavLink } from 'react-router-dom'
 import LogoC from '../../assets/images/logo-c.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faEnvelope, faHome, faUser } from '@fortawesome/free-solid-svg-icons'
+import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons'
 
 const Sidebar = () => (
     <div className='nav-bar'>
@@ -17,9 +18,29 @@ const Sidebar = () => (
                 <FontAwesomeIcon icon={faUser} color='#4d4d4e'></FontAwesomeIcon>
             </NavLink>
             <NavLink exact="true" activeclassname="active" className="contact-link" to="/contact">
-                <FontAwesomeIcon icon={faEnvelope} color='#4d4d4e'></FontAwesomeIcon>
+                <FontAwesomeIcon icon={faEnvelope} color='#4d4d4e'/>
             </NavLink>
         </nav>
+        <ul>
+            <li>
+                <a
+                target="_blank"
+                rel="noreferrer"
+                href="https://www.linkedin.com/in/callum-jepps-a4a8b3101/"
+                >
+                    <FontAwesomeIcon icon={faLinkedin} color="#4d4d4e"/>
+                </a>
+            </li>
+            <li>
+                <a
+                target="_blank"
+                rel="noreferrer"
+                href="https://github.com/CJepps?tab=repositories"
+                >
+                    <FontAwesomeIcon icon={faGithub} color="#4d4d4e"/>
+                </a>
+            </li>
+        </ul>
     </div>
 )
 
