@@ -72,4 +72,14 @@
       text-align: center;
       margin-right: 10px;
     }
+
+    button, html input[type=button], input[type=reset], input[type=submit] {
+      -webkit-appearance: button;
+      cursor: pointer;
+
+      &:hover {
+        background-color: #eef25e;
+        color: #115173;
+      }
+    }
   }
