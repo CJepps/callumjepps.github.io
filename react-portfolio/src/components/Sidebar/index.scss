@@ -90,6 +90,11 @@ nav {
             content: 'CONTACT';
         }
     }
+    a.portfolio-link {
+        &:after {
+            content: 'MY WORK';
+        }
+    }
 
     a.active {
         svg {
