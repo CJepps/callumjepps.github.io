@@ -97,7 +97,7 @@
   
     .text-zone {
       position: absolute;
-      left: 10%;
+      left: 33%;
       top: 50%;
       transform: translateY(-50%);
       width: 35%;
@@ -144,11 +144,6 @@
       h1.page-title {
         margin-left: 20px;
         margin-top: 20px;
-      }
-
-      .image-box {
-        height: 200px;
-        max-width: calc(50% - 10px);
       }
     }
   }
