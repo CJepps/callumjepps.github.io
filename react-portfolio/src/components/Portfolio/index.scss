@@ -1,14 +1,19 @@
 .portfolio-page {
-    padding-left: 100px;
-    padding-right: 50px;
-    width: calc(100% - 150px);
-    position: initial;
-    height: 100%;
-    overflow: auto;
+  padding-left: 100px;
+  padding-right: 50px;
+  width: calc(100% - 150px);
+  position: initial;
+  height: 100%;
+  overflow: auto;
 
-    #portfolio-text-zone {
-        margin-left: 100px;
-        margin-top: 100px;
-        top: 10%;
-    }
-}    
+  #portfolio-text-zone {
+    margin-left: 100px;
+    margin-top: 100px;
+    top: 10%;
+  }
+}
+.container.portfolio-carousel {
+  height: 50%;
+  position: absolute;
+  bottom: 0%;
+}
