@@ -115,7 +115,11 @@ const PortfolioCarousel = () => {
               </a>
             </div>
             <div class="portfolio-button">
-              <a href="#" target="_blank" rel="noreferrer">
+              <a
+                href="https://simmer-recipes.herokuapp.com/"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <button type="submit">Site</button>
               </a>
             </div>
