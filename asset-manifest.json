@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/callumjepps.github.io/static/css/main.7934d7b7.css",
-    "main.js": "/callumjepps.github.io/static/js/main.3020fc79.js",
-    "static/js/787.a2cb61a6.chunk.js": "/callumjepps.github.io/static/js/787.a2cb61a6.chunk.js",
-    "static/media/logo-image.png": "/callumjepps.github.io/static/media/logo-image.63006f10f564f8116a81.png",
-    "static/media/simmer-front-page.png": "/callumjepps.github.io/static/media/simmer-front-page.fc244227f7a78bdebc6e.png",
-    "static/media/screenshot_1.PNG": "/callumjepps.github.io/static/media/screenshot_1.cd051ebbfcb2b7e7ac86.PNG",
-    "static/media/crux-front-page.png": "/callumjepps.github.io/static/media/crux-front-page.9f999bd37f43710c190b.png",
-    "static/media/logo-c.png": "/callumjepps.github.io/static/media/logo-c.cc857d5aeb9d5adcbc1e.png",
-    "static/media/logo-capital-c.png": "/callumjepps.github.io/static/media/logo-capital-c.d2b55a3aadac15fd06a7.png",
-    "static/media/music-matcher-front-page.png": "/callumjepps.github.io/static/media/music-matcher-front-page.8202eb6e1bfce6d69060.png",
-    "static/media/helvetica-neu.ttf": "/callumjepps.github.io/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/LaBelleAurore.woff2": "/callumjepps.github.io/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/CoolveticaRg-Regular.woff2": "/callumjepps.github.io/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/callumjepps.github.io/index.html",
-    "main.7934d7b7.css.map": "/callumjepps.github.io/static/css/main.7934d7b7.css.map",
-    "main.3020fc79.js.map": "/callumjepps.github.io/static/js/main.3020fc79.js.map",
-    "787.a2cb61a6.chunk.js.map": "/callumjepps.github.io/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/static/css/main.3d9b450b.css",
+    "main.js": "/static/js/main.ae6152f7.js",
+    "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
+    "static/media/logo-image.png": "/static/media/logo-image.63006f10f564f8116a81.png",
+    "static/media/simmer-front-page.png": "/static/media/simmer-front-page.fc244227f7a78bdebc6e.png",
+    "static/media/screenshot_1.PNG": "/static/media/screenshot_1.cd051ebbfcb2b7e7ac86.PNG",
+    "static/media/crux-front-page.png": "/static/media/crux-front-page.9f999bd37f43710c190b.png",
+    "static/media/logo-c.png": "/static/media/logo-c.cc857d5aeb9d5adcbc1e.png",
+    "static/media/logo-capital-c.png": "/static/media/logo-capital-c.d2b55a3aadac15fd06a7.png",
+    "static/media/music-matcher-front-page.png": "/static/media/music-matcher-front-page.8202eb6e1bfce6d69060.png",
+    "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/index.html",
+    "main.3d9b450b.css.map": "/static/css/main.3d9b450b.css.map",
+    "main.ae6152f7.js.map": "/static/js/main.ae6152f7.js.map",
+    "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7934d7b7.css",
-    "static/js/main.3020fc79.js"
+    "static/css/main.3d9b450b.css",
+    "static/js/main.ae6152f7.js"
   ]
 }
